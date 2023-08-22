@@ -1,0 +1,47 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    color: #ffffff;
+}
+
+header {
+    display: flex;
+    background-color: #0060b1;
+    gap: 40px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.logo {
+    font-size: 40px;
+}
+
+.navbar {
+    text-align: center;
+    
+}
+
+.nav {
+    
+    align-items: flex-end;
+    justify-items: left;
+}
+
+.mais-comprados {
+    height: 400px;
+}
+.promocao {
+    height: 400px;
+}
+
+
+footer {
+    color: black;
+}
